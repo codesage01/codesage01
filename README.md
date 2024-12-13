@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codesage01
-- 👀 I’m interested in DevOps|Blockchains|Backend 
+- 👀 I’m interested in DevOps| Blockchains| Backend 
 - 🌱 I’m currently learning Machin Learning 
 
 <!---

@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm codesage01
-
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca3b122a14c784db9f0ef4c5c9.gif" alt="Coder GIF" width="300"/>
+</p>
 Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves crafting interactive, real-time applications, decentralized systems, and clean, responsive UIs. I build across the stack—from sockets to smart contracts, containers to mobile apps.
 
 ---

@@ -1,87 +1,92 @@
-
 # 👋 Hi there, I'm codesage01
 
-Welcome to my GitHub! I’m a passionate **Full-Stack Developer** focused on building interactive, scalable, and efficient web applications with real-time features, decentralized systems, and clean UI/UX.
+Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves crafting interactive, real-time applications, decentralized systems, and clean, responsive UIs. I build across the stack—from sockets to smart contracts, containers to mobile apps.
 
 ---
 
 ## 🧠 What I Do
 
-- 🧩 Build **real-time apps** using WebSockets (live polls, voting systems)
-- 🏗️ Architect **decentralized modules** using Ethereum for governments & enterprises
-- 💡 Design responsive, user-friendly UIs with React, TypeScript, and Tailwind
-- 🐳 Containerize and manage microservices using **Docker**
-- ⚙️ Practice DevOps-friendly workflows with modular Node.js servers
-- 📚 Continuously improving through hands-on projects and system design
+- 🔄 Build **real-time apps** using WebSockets (live polls, chat apps, dashboards)
+- 🛠️ Develop **backend APIs** with Node.js, Django, and Go
+- 📱 Build **mobile-first apps** using Flutter and responsive design systems
+- 🐳 Containerize with **Docker** and manage modular service architectures
+- 🧾 Create decentralized solutions on Ethereum (GovOps Project)
+- 💡 Focus on UI/UX using React, TypeScript, Tailwind CSS
+- 🧪 Follow clean code principles, type safety, and local persistence
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🚀 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,nodejs,express,socketio,solidity,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,flutter,nodejs,express,django,go,socketio,solidity,docker,git,github,vscode" />
 
-| Category       | Tools & Techs |
-|----------------|---------------|
-| **Frontend**   | ReactJS, NextJS, Tailwind CSS, TypeScript, Vite |
-| **Backend**    | NodeJS, Express, WebSockets (Socket.IO) |
-| **Blockchain** | Ethereum, Solidity (GovOps Project) |
-| **DevOps**     | Docker (building & running containers) |
-| **Utilities**  | Git, GitHub, VS Code, ESLint, LocalStorage |
-| **Design**     | Responsive UI, Clean UX, Countdown Timers |
+| Category         | Tools & Technologies |
+|------------------|----------------------|
+| **Frontend**     | ReactJS, NextJS, Tailwind CSS, TypeScript, Vite |
+| **Mobile**       | Flutter (Dart) |
+| **Backend**      | NodeJS, Express, Django, Go |
+| **Real-Time**    | WebSockets, Socket.IO |
+| **Blockchain**   | Ethereum, Solidity (GovOps Project) |
+| **DevOps**       | Docker (containerization) |
+| **Other Tools**  | Git, GitHub, VS Code, ESLint, LocalStorage |
+
+---
+
+## 📊 Tech Stack Graph & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codesage01&theme=onedark&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesage01&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codesage01&show_icons=true&theme=radical" />
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🎯 Real-Time Poll App (Live Poll Battle)
-An interactive polling app where users vote in real-time in separate rooms.
+An interactive polling app where users vote live in rooms with WebSocket updates.
 
-🔹 **Core Features**:
-- Room creation/join with username
-- 60-second countdown timer
-- Real-time vote broadcasting (Socket.IO)
-- Prevent duplicate votes with LocalStorage
-- Minimalist responsive UI
+🔹 **Features**:
+- Create/join room with username
+- Live results update across all users
+- 60-second voting timer
+- Vote once only (persisted via localStorage)
+- Clean, mobile-responsive UI
 
-
-📁 [Repo Link](https://github.com/codesage01/fullstack_Pollingapp)
+📁 [Repo](https://github.com/codesage01/fullstack_Pollingapp)
 
 ---
 
 ### 🏛 Eth GovOps Project
-A decentralized operations suite for governments & enterprises, powered by Ethereum.
+A decentralized operational suite for governments & enterprises using Ethereum.
 
 🔹 **Modules**:
-- Incident Management
-- Auctions
-- Documents & Inventory
-- HR & Work Orders
-
-💻 Built using: Solidity, Node.js, Ethereum smart contracts, modular frontend/backend system
+- Incident Reporting
+- Document & Inventory Tracking
+- Auctions & HR workflows
+- Built with Solidity, Node.js, modular front-end/backend design
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Other Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codesage01&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesage01&layout=compact&theme=tokyonight" height="160"/>
-</p>
+- 🧩 Strong understanding of real-time state sync and WebSocket protocols  
+- 📦 API-first development in Go and Django  
+- 📱 Proficient in building cross-platform UIs in Flutter  
+- 🧪 Test-driven mindset and clean modular architecture  
 
 ---
 
-## 📬 Let's Connect
+## 📬 Let’s Connect
 
 - 🌐 [Portfolio](https://vanshguptaportfollio.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vansh-gupta-5681482a4/)
 
-
 ---
 
-> Thanks for stopping by! Feel free to explore my work, open issues, and drop a ⭐ if you find something helpful.
-
-
----
-
-> Thanks for stopping by! Feel free to explore my work, open issues, and drop a ⭐ if you find something helpful.
+> Thanks for visiting! If you like what you see, feel free to explore my work, open issues, or ⭐ a project.
 

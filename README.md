@@ -20,7 +20,7 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves craf
 
 ## 🚀 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,flutter,nodejs,express,django,go,socketio,solidity,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,flutter,nodejs,express,django,go,socketio,solidity,docker,Kubernetes,git,github,vscode" />
 
 | Category         | Tools & Technologies |
 |------------------|----------------------|
@@ -29,7 +29,7 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Developer** who loves craf
 | **Backend**      | NodeJS, Express, Django, Go |
 | **Real-Time**    | WebSockets, Socket.IO |
 | **Blockchain**   | Ethereum, Solidity (GovOps Project) |
-| **DevOps**       | Docker (containerization) |
+| **DevOps**       | Docker (containerization) | Kubernetes
 | **Other Tools**  | Git, GitHub, VS Code, ESLint, LocalStorage |
 
 ---

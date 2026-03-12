@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/codesage01/codesage01/main/github-header-banner.png">
+# <img src="https://raw.githubusercontent.com/codesage01/codesage01/main/github-header-banner (1).png">
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coder animation" width="400"/>
 </p>

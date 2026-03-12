@@ -1,7 +1,5 @@
 # <img src="https://raw.githubusercontent.com/codesage01/codesage01/main/github-header-banner (1).png">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coder animation" width="400"/>
-</p>
+
 Welcome to my GitHub! I’m a passionate Full-Stack Developer who loves crafting interactive, real-time applications, decentralized systems, and clean, responsive UIs. I build across the stack—from sockets to smart contracts, containers to mobile apps.
 
 ---
